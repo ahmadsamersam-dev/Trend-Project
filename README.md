@@ -5,6 +5,8 @@ This website is a front-end interface for a pizza restaurant. I used Pixel Art a
 This is my first project using Flexbox in CSS to arrange, style, and make the elements responsive across different screens.
 Technologies Used
 HTML & CSS
+
+
  مشروع مطعم بيتزا باستخدام فن البكسل آرت
 
 عن المشروع
