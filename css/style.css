@@ -1,0 +1,107 @@
+body{
+  background-color: black;
+  color: white;
+  width: 100%;
+  max-width: 2000px;
+  font-family: "Jersey 25", sans-serif;
+}
+header{
+  color: darkred;
+  margin: 10px auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+header img{
+  width: 80px;
+  vertical-align: middle;
+}
+header h1{
+  margin: 0px;
+}
+a{
+  margin: 30px;
+  display: block;
+  color: white;
+  text-align: center;
+  background: darkred;
+  padding: 5px;
+  width: 25%;
+  border-radius: 10px;
+  text-decoration: none;
+  border: 2px white solid;
+  box-shadow: 0px 0px 10px 2px red;
+}
+.ourstory{
+width: 90%;
+height: 30%;
+margin: 10px auto;
+}
+.ourstory h2{
+  width: 150px;
+  background: darkred;
+  margin:0px auto;
+  border: 2px solid red;
+  text-align: center;
+  padding: 10px;
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+  border-top: 2px solid white;
+  border-bottom: 0.1px solid red;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  box-shadow: 0px 0px 10px 0px red;
+}
+.ourstory div{
+  background: darkred;
+  color: white;
+  margin-top: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px white solid;
+  box-shadow: 0px 0px 10px 0px red;
+}
+.menu{
+  width: 100%;
+  margin-top: 20px;
+}
+.menu figure{
+  margin: 10px 0px;
+}
+.menu h2{
+  height: 10%;
+  margin: 10px auto 0px;
+  width: 50%;
+  text-align: center;
+  background-color: darkred;
+  border: 2px solid white;
+  border-color: white white transparent white;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  box-shadow: 0px 0px 10px 2px red;
+}
+.menu .photo {
+  border: 2px white solid;
+  background: darkred;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 2px red;
+}
+.menu .photo figure{
+  padding: 10px;
+  margin: 10px auto;
+  background-color: black;
+  border: white solid 2px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px 2px white;
+}
+.menu figure img{
+  width: 350px;
+  height: 200px;
+}
+.menu .photo figcaption{
+  text-align: center;
+  padding-bottom: 20px;
+}
